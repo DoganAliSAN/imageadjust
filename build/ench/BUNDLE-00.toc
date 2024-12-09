@@ -1,0 +1,1 @@
+([('ench', '/Users/doganalisan/Desktop/adjust/dist/ench', 'EXECUTABLE')],)
